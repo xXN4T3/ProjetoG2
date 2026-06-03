@@ -73,6 +73,8 @@ st.title("📱 Dashboard de Redes Sociais no Brasil")
 st.write("""
 Análise de desempenho das redes sociais considerando
 alcance, visualizações, engajamento e tipos de conteúdo.
+Projeto desenvolvido por Nathan Silva Cardoso
+Professor: Alexandre Neves Louzada
 """)
 
 #-------sidebar--------------
