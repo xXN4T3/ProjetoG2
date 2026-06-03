@@ -25,7 +25,7 @@ st.set_page_config(
 sns.set_theme(style="whitegrid")
 
 BASE_DIR = Path.cwd() # Corrected: Use Path.cwd() instead of Path(__file__).parent
-CAMINHO_DADOS = BASE_DIR / "simulacao_redes_sociais_brasil.csv"
+CAMINHO_DADOS = BASE_DIR / "dados" / "simulacao_redes_sociais_brasil.csv"
 CAMINHO_BANCO = BASE_DIR / "database" / "redes_sociais.sqlite"
 
 
